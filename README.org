@@ -6,7 +6,7 @@
 
 * GitHub username: mcoleman2760
 
-* Notes:
+* Notes: do the command g++ main.cpp funcs.cpp to run the program
 
 
 
