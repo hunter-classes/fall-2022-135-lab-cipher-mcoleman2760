@@ -22,6 +22,5 @@ std::cout << "\nencryptCaesar:\nplaintext: I want to build a big business and be
 std::cout << "\nsolve:\nciphertext: D rvio oj wpdgy v wdb wpndiznn viy wz mdxc jiz yvt\n";
   std::cout << solve("D rvio oj wpdgy v wdb wpndiznn viy wz mdxc jiz yvt");
    std::cout << "\n------------------\n";
- return 0;
 
 }
