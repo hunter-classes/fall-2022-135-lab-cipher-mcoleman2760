@@ -12,6 +12,6 @@ TEST_CASE("Ciphers That Solve"){
 TEST_CASE("Ciphers That Wont Solve"){
     CHECK(solve("prqhb") != "money");
     CHECK(solve("Krz pxfk orqjhu?") != "How much longer?");
-    CHECK(solve("zkdw gr l gr") != "what do i do");
+    CHECK(solve("wexq al f al") != "what do i do");
 
 }
